@@ -4,26 +4,15 @@
 
 This Python program allows users to store student names and their grades for various subjects. It also provides functionalities to calculate and display the mean, median, mode, and skewness of a list of grades entered by the user.
 
-## Installation
 
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/yourusername/student-grades-management.git
-    ```
-
-2. **Navigate to the project directory:**
-    ```sh
-    cd student-grades-management
-    ```
-
-3. **Ensure you have Python installed:**
+ **Ensure you have Python installed:**
     This program requires Python 3.x. You can download Python from the [official website](https://www.python.org/downloads/).
 
 ## Usage
 
 1. **Run the program:**
     ```sh
-    python student_grades.py
+    python project_version_2.py
     ```
 
 2. **Enter the number of students when prompted:**
